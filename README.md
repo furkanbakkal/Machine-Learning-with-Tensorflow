@@ -52,6 +52,8 @@ Detecting Custom Shapes with Tensorflow using Machine Learning
 ### Installing Other Modules
 `conda install -c r r-turtlegraphics`
 
+`conda install -c anaconda pillow`
+
 If you downloaded all modules correctly, just run the main.py file .
 
 https://user-images.githubusercontent.com/81293327/138339970-2828c130-ff40-4574-b694-6624bed29737.mp4
