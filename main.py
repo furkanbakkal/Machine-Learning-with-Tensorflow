@@ -8,10 +8,6 @@ Squid Game Challenge - November Project - Lunizz
 
 21/10/2021
 
-Github Repository:
-Mail:
-Discord:
-
 """
 
 import draw
