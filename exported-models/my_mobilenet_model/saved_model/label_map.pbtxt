@@ -1,0 +1,23 @@
+item {
+    id: 1
+    name: 'circle'
+}
+
+item {
+    id: 2
+    name: 'triangle'
+}
+
+item {
+    id: 3
+    name: 'star'
+}
+
+item {
+    id: 4
+    name: 'umbrella'
+}
+item {
+    id: 5
+    name: 'soldier'
+}
