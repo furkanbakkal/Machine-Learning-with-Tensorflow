@@ -10,7 +10,6 @@ Detecting Custom Shapes with Tensorflow using Machine Learning
 ### Installing Tensorflow Object Detection API
 - Open a new Anaconda prompt
 
-`
 `conda create -n tensorflow pip python=3.8`
 
 `conda activate tensorflow`
